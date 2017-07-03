@@ -1,0 +1,12 @@
+17955,17956c17955,17956
+<   INT64_T='signed long'
+<   INT64_FORMAT='"%ld"'
+---
+>   INT64_T='signed long long'
+>   INT64_FORMAT='"%lld"'
+17991,17992c17991,17992
+<   UINT64_T='unsigned long'
+<   UINT64_FORMAT='"%lu"'
+---
+>   UINT64_T='unsigned long long'
+>   UINT64_FORMAT='"%lru"'
